@@ -2,12 +2,12 @@
 
 ## 1. Getting Started With AI
 
-- [x] - Exercise 1 - Listing pineapple routes
-- [x] - Exercise 2
-- [ ] - Exercise 3
-- [ ] - Exercise 4
-- [ ] - Exercise 5
-- [ ] - Exercise 6
+- [x] - Exercise 1: Listing pineapple routes
+- [x] - Exercise 2: Pineapple route emissions
+- [x] - Exercise 3: Reach the highest summit
+- [ ] - Exercise 4: Probabilities
+- [ ] - Exercise 5: Warm-up Temperature
+- [ ] - Exercise 6: Simulated Annealing
 
 ## 2. Dealing with uncertainty
 
