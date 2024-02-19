@@ -7,7 +7,7 @@
 - [x] - Exercise 3: Reach the highest summit
 - [x] - Exercise 4: Probabilities
 - [x] - Exercise 5: Warm-up Temperature
-- [ ] - Exercise 6: Simulated Annealing
+- [x] - Exercise 6: Simulated Annealing
 
 ## 2. Dealing with uncertainty
 
