@@ -11,8 +11,8 @@
 
 ## 2. Dealing with uncertainty
 
-- [ ] - Exercise 7
-- [ ] - Exercise 8
+- [x] - Exercise 7: Flip the coin
+- [ ] - Exercise 8: Fishing in the Nordics
 - [ ] - Exercise 9
 - [ ] - Exercise 10
 
