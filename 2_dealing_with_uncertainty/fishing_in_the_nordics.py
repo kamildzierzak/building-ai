@@ -13,8 +13,8 @@ def guess(winner_gender):
     biggest = 0.0
     total = sum(fishers)
 
-    for index, population in enumerate(populations):
-        current = fishers[index] / total * 100
+    for index, fisher in enumerate(fishers):
+        current = fisher / total * 100
         # print(current, biggest)
         if current > biggest:
             biggest = current
