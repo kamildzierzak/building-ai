@@ -19,7 +19,7 @@
 ## 3. Machine learning
 
 - [x] - Exercise 11: Real estate price prediction
-- [ ] - Exercise 12: Least squares
+- [x] - Exercise 12: Least squares
 - [ ] - Exercise 13: Predictions with more data
 - [ ] - Exercise 14: Training data vs test data
 - [ ] - Exercise 15
