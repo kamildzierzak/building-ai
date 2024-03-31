@@ -13,8 +13,8 @@
 
 - [x] - Exercise 7: Flip the coin
 - [x] - Exercise 8: Fishing in the Nordics
-- [ ] - Exercise 9: Block or not
-- [ ] - Exercise 10
+- [x] - Exercise 9: Block or not
+- [x] - Exercise 10: Naive Bayes classifier
 
 ## 3. Machine learning
 
