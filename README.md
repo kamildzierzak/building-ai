@@ -20,7 +20,7 @@
 
 - [x] - Exercise 11: Real estate price prediction
 - [x] - Exercise 12: Least squares
-- [ ] - Exercise 13: Predictions with more data
+- [x] - Exercise 13: Predictions with more data
 - [ ] - Exercise 14: Training data vs test data
 - [ ] - Exercise 15
 - [ ] - Exercise 16
