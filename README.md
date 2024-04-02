@@ -23,7 +23,7 @@
 - [x] - Exercise 13: Predictions with more data
 - [x] - Exercise 14: Training data vs test data
 - [x] - Exercise 15: Vector distances
-- [ ] - Exercise 16: Nearest neighbor
+- [x] - Exercise 16: Nearest neighbor
 - [ ] - Exercise 17
 - [ ] - Exercise 18
 - [ ] - Exercise 19
