@@ -24,8 +24,8 @@
 - [x] - Exercise 14: Training data vs test data
 - [x] - Exercise 15: Vector distances
 - [x] - Exercise 16: Nearest neighbor
-- [ ] - Exercise 17
-- [ ] - Exercise 18
+- [x] - Exercise 17: Bag of words
+- [ ] - Exercise 18: TF-IDF
 - [ ] - Exercise 19
 
 ## 4. Neural nerworks
