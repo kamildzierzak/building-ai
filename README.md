@@ -26,7 +26,7 @@
 - [x] - Exercise 16: Nearest neighbor
 - [x] - Exercise 17: Bag of words
 - [x] - Exercise 18: TF-IDF
-- [ ] - Exercise 19
+- [x] - Exercise 19: looking out for overfitting
 
 ## 4. Neural nerworks
 
