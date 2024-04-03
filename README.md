@@ -25,7 +25,7 @@
 - [x] - Exercise 15: Vector distances
 - [x] - Exercise 16: Nearest neighbor
 - [x] - Exercise 17: Bag of words
-- [ ] - Exercise 18: TF-IDF
+- [x] - Exercise 18: TF-IDF
 - [ ] - Exercise 19
 
 ## 4. Neural nerworks
