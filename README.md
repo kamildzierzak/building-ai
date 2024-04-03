@@ -31,6 +31,12 @@
 ## 4. Neural nerworks
 
 - [x] - Exercise 20: Logistic regression
-- [ ] - Exercise 21: Neural networks
+- [x] - Exercise 21: Neural networks
 
 ## 5. Conclusion
+
+## 6. Notes
+
+> When talking about neural networks, we use slightly different terminology. Instead of coefficients we say weights. The non-linear part of the model, which in the case of logistic regression was the sigmoid function, is called the activation function. One such model is called a neuron. The neurons are connected to each other by letting the output of one neuron be an input of another.
+>
+> -- <cite>https://buildingai.elementsofai.com/Neural-Networks/from-logistic-regression-to-neural-networks</cite>
