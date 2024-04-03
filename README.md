@@ -30,7 +30,7 @@
 
 ## 4. Neural nerworks
 
-- [ ] - Exercise 20
-- [ ] - Exercise 21
+- [x] - Exercise 20: Logistic regression
+- [ ] - Exercise 21: Neural networks
 
 ## 5. Conclusion
